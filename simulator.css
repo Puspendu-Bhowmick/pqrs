@@ -137,7 +137,7 @@ select{
     padding: 4px;
     width: 80px;}
 .yellowButton{
-	background-image:url(../images/yellow-button.png);
+	background-image:url(yellow-button.png);
 	background-repeat:repeat-x;
 	height:34px;
 	text-align:center;
@@ -147,7 +147,7 @@ select{
 	font-size:12px;
 	cursor:pointer;
 	width:100px;}
-.hitPoint{width:18px;height:18px; background:url(../images/round-button.png) no-repeat}
+.hitPoint{width:18px;height:18px; background:url(round-button.png) no-repeat}
 	
 .units{
 	font-size:12px;
